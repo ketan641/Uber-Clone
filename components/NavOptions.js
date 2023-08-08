@@ -62,4 +62,3 @@ const NavOptions = () => {
 
 export default NavOptions;
 
-//directions api key - AIzaSyBhlfJAixl9RWMlWNqx3EWjt_NDGnF2RUo
